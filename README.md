@@ -4,8 +4,8 @@
 
 ### Welcome to my page!
 
-## My name is Aina.
-## I'm Frontend Developer living in beautiful Riga town in Latvia.
+### My name is Aina.
+### I'm Frontend Developer living in beautiful Riga town in Latvia.
 
 * 🔭 I’m currently working on cool and interesting applications
 * 🌱 I’m currently learning TypeScript, JavaScript, React, Redux, HTML and CSS
