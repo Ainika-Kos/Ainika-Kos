@@ -14,4 +14,8 @@
 * In my free time, I like to improve my coding skills by solving short programming problems
 * You can find me on [CodinGame](https://www.codingame.com/home) as [Ainika](https://www.codingame.com/profile/9186e072c8d6cf684ac26e3abfe184949091304) and we can clash together 😉
 
-
+### My favorite projects are:
+* [Resposive landind page](https://github.com/Ainika-Kos/Figma_LandingPage_Product) from Figma design, HTML & CSS
+* [Snake game](https://github.com/Ainika-Kos/React_Snake) TypeScript & React
+* [ToDo List](https://github.com/Ainika-Kos/React_ToDoList) TypeScript & React
+* [Currencies Mini App](https://github.com/Ainika-Kos/React_Currencies_Mini_App) TypeScript & React
