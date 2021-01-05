@@ -4,7 +4,7 @@
 ### Welcome to my page!
 
 ### My name is Aina.
-### I'm Frontend Developer living in beautiful Riga town in Latvia.
+### I'm a Frontend Developer living in beautiful Riga city, Latvia's capital.
 
 * 🔭 I’m currently working at [CODELEX](https://www.codelex.io/) on cool and interesting applications
 * 🌱 I’m currently learning TypeScript, JavaScript, React, and Redux
