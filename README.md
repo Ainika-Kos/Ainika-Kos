@@ -8,10 +8,10 @@
 
 * 🔭 I’m currently working at [CODELEX](https://www.codelex.io/) on cool and interesting applications
 * 🌱 I’m currently learning TypeScript, JavaScript, React, and Redux
-* 💬 Ask me about anything, I am happy to help
+* 💬 Ask me about anything, I'm happy to help
 
 * 📧 You can reach me on [LinkedIn](https://www.linkedin.com/in/aina-kostina/)
-* In my free time, I like to improve my coding skills by solving short programming problems. 
+* In my free time, I like to improve my coding skills by solving short programming problems
 * You can find me on [CodinGame](https://www.codingame.com/home) as [Ainika](https://www.codingame.com/profile/9186e072c8d6cf684ac26e3abfe184949091304) and we can clash together 😉
 
 
