@@ -16,6 +16,5 @@
 
 ### My favorite projects are:
 * [Resposive landing page](https://github.com/Ainika-Kos/Figma_LandingPage_Product) from Figma design, HTML & CSS
-* [Snake game](https://github.com/Ainika-Kos/React_Snake) TypeScript & React
 * [ToDo List](https://github.com/Ainika-Kos/React_ToDoList) TypeScript & React
 * [Currencies Mini App](https://github.com/Ainika-Kos/React_Currencies_Mini_App) TypeScript & React
